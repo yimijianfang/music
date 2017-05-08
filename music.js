@@ -1,4 +1,5 @@
 /*! music v1.0.0 | (c) 2017*/
+/*gitupload test*/
 ;(function($){
 	function CreateMusic(opts){
 		$el=$("body");
