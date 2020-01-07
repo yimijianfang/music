@@ -2,6 +2,7 @@
 移动端音乐插件、兼容自适应布局、兼容微信、QQ、UC等主流浏览器、部署方便
 [演示地址](https://yimijianfang.github.io/music/)
 ![demo](https://raw.githubusercontent.com/yimijianfang/music/master/images/111.gif)
+
 使用方法
 1. 引入jquery
 2. 引入music.js
