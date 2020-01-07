@@ -1,6 +1,7 @@
 # music-jquery音乐插件
 移动端音乐插件、兼容自适应布局、兼容微信、QQ、UC等主流浏览器、部署方便
 [演示地址](https://yimijianfang.github.io/music/)
+![demo](https://raw.githubusercontent.com/yimijianfang/music/master/images/111.gif)
 使用方法
 1. 引入jquery
 2. 引入music.js
@@ -17,7 +18,7 @@ $.music({
     restore:false,//暂停后音符是否恢复原位
     volume:1//音量 范围0.0-1.0
 })
-都是非必填项，通过merger补全配置项
+都是非必填项，通过merge补全配置项
 ```
 
 因部分浏览器限制，自动播放功能会在滑动屏幕后重新播放音乐。
